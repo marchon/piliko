@@ -1,0 +1,30 @@
+Bats, echolocation and Einstein’s Special Relativity
+
+http://njwildberger.wordpress.com/2014/06/11/bats-echolocation-and-einsteins-special-relativity/
+
+Posted on June 11, 2014 by njwildberger: tangential thoughts
+
+Lately I have been pondering Einstein’s theory of Special Relativity (SR). This has long seemed a fertile area to employ ideas of rational trigonometry, as the associated geometry, called sometimes Lorentzian geometry, rests on a symmetric bilinear form, and rational trig is all about setting up the machinery to study geometry starting from such a form. Quadrance and spread, the basic two measurements between points and lines, are simple rational functions of the dot product between vectors.
+
+Perhaps surprisingly, I have slowly come to realize that SR actually can be derived not only from Einstein’s two basic postulates (that the laws of physics are the same in any two inertial frames, and that the speed of light is constant independent of the inertial frame) but rather from simple Newtonian mechanics, once we let go of the idea of an inertial frame and replace it with the simpler, more fundamental idea of an inertial observer. We replace a grid of equally spaced observers armed with coordinated clocks with just a single observer, armed with a single clock, and with a particular method of propogating signals, be it light, sound, water waves, or something else.
+
+The whole story can be well described using the world of bats, who employ sonar echolocation to do their hunting at night. Turns out that many of the mathematical aspects of SR are already apparent in this humble setting. Sound, not light, is the basis of measurements. It is all rather surprising to me, and really only involves some elementary first year linear algebra.
+
+I will be giving a talk about this subject in a few weeks here at UNSW: here are the details in case any reader is in the area and would like to come along.
+
+************************
+
+Speaker:    A/Prof Norman Wildberger (UNSW)
+Title:          Bats, echolocation, and a Newtonian view of Einstein’s Special Relativity
+When:        12:00 Tuesday, 24 June 2014
+Where:      RC-4082, Red Centre, UNSW, (Kensington campus, Sydney)
+
+Abstract:   Einstein’s 1905 Special Relativity (SR) is a foundational theory of 20th century physics. While perhaps unintuitive and certainly surprising initially, it has a beauty and elegance which connects to a rich and interesting variant of Euclidean geometry. In this talk we present a simple but novel introduction to SR and the associated geometry, showing that the mathematical framework actually resides already in Newtonian mechanics, and could possibly have been discovered any time after 1700 if physicists had asked themselves the question: how would two (mathematically inclined) bats compare time and position measurements??
+
+The unique abilities of bats to hunt their prey using (sonor) echolocation is one of the more remarkable aspects of the world of mammals. We will show that by adopting a `bat-centric’ point of view, and thinking about sound–not light!–as the source of physical measurement information, many of the standard pillars of SR, including Lorentz transformations, length contraction, time dilation, Einstein’s interval, and the twin paradox arise simply and naturally. Mathematically only some first year linear algebra is required. Holy Albert, Batman!
+
+********************
+
+If there is any interest, we can have a Q&A session afterwards. Hope to see some of you!
+
+

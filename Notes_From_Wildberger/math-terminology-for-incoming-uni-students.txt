@@ -1,0 +1,28 @@
+Math Terminology for incoming Uni students
+
+http://njwildberger.wordpress.com/2014/07/27/math-terminology-for-incoming-uni-students/
+
+Posted on July 27, 2014 by njwildberger: tangential thoughts
+It’s been a while since I posted, I have been busy with the end of term, and our new video room in the School has kept me busy, putting together videos of solutions to first year tutorial problems (you can see some of this fine work at the School’s YouTube channel at mathsstatsUNSW) and getting ready to go overseas to Austria and Croatia for August and the first half of Sept.
+
+But another interesting development is that I have dipped my toes into the world of MOOCs. If you’ve been following this blog, you know I have been musing about this topic, with mixed feelings. But better to get some experience directly, and since I have posted on Insights into Mathematics a series of videos on Maths Terminology, I thought I would put a mini-MOOC together. It launched this week, to great fanfare of course. :)
+
+Seriously, you can check it out at http://www.openlearning.com, which is a very nice platform developed here in Australia for hosting courses (like Coursera and EdX I suppose). It’s orientation is towards student interaction, and I’ve had fun making crosswords, puzzles and quizzes to complement the YouTube lectures. It’s aimed primarily at students entering Uni or College, and planning on taking mathematics there, and the idea is to briefly review notation and terminology that they ought to know. Actually probably students from non-English speaking backgrounds might benefit most, but perhaps others will too.
+
+The course only has 7 Modules, so you could finish the whole thing in a day if you were really dedicated. Here is the link in case you want to have a look:
+
+https://www.openlearning.com/courses/mathsterminologyfornon-englishspeakingunistudents
+
+Openlearning is headed by Adam Brimo, who has been very helpful in giving advice and information. The other guru behind the project is the famous Richard Buckland, from the School of Computer Science and Engineering at UNSW, who has also been helpful answering my dumb questions.
+
+It’s early days, let’s see if interest develops. I am thinking that a platform like openlearning might be a good place to host discussions about Rational Trigonometry or the Foundations of Mathematics, allowing people to post, blog, chat etc.
+
+We are also putting together at UNSW (we being Bruce Henry, Peter Brown, Chris Tisdell and Daniel Mansfield, with me) a PD course for high school maths teachers. That is coming along well, with the expert help of Iman Irannejad; who is a wizard with all things to do with filming and editing.
+
+In a couple of days I head off to Austria for two Geometry conferences, one in Innsbruck and one in Supetar, Croatia. Should be fun, and hope to keep you posted.
+
+ 
+
+ 
+
+ 

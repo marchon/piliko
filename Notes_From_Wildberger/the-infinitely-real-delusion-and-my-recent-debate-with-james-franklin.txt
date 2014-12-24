@@ -1,0 +1,25 @@
+The infinitely real delusion, and my recent debate with James Franklin
+
+http://njwildberger.wordpress.com/2014/10/06/the-infinitely-real-delusion-and-my-recent-debate-with-james-franklin/
+
+Posted on October 6, 2014 by njwildberger: tangential thoughts
+In the last fifteen years or so, I have become increasingly disenchanted with the way modern mathematics deals with, or rather doesn’t deal with, the serious logical problems which beset the subject. These difficulties arise from a misunderstanding of the nature of `infinite sets’ and `the continuum’, and then extend further in many directions.
+
+`Infinite sets’ are propped up, according to the standard dogma, by certain axiomatics, which lift the burden of having to actually define properly what we are talking about, and prove the various theorems that we would like to have true. What a joke these ZFC axiomatics are. The entire situation is ironic to the extreme: in fact Cantor’s Set Theory was vigorously opposed by most prominent mathematicians during his day, and then collapsed in a catastrophic heap at the beginning of the 20th century due to the discovery of irrefutable paradoxes. And now, fast forward a hundred years later: not only has Set Theory been resurrected, essentially with no new ideas—most of the key concepts go back to Cantor or Turing, and are just endlessly recycled—but now most of us believe that this befuddled and imprecisely laid out subject is actually the correct foundation for the rest of mathematics! This is little short of incredible. I feel I have woken from a dream, while most of my colleagues are still blissfully dozing.
+
+And our notion of the continuum is currently modelled by the so-called ‘real numbers’, which in fact are far removed from most sensible people’s notions of reality. These phoney real numbers that most of my colleagues pretend to deal with on a daily basis are in fact hazy and undefined creations that frolic and shimmer in a fantasy underworld deep beneath the computational precisions of our computers, ready to alleviate us from the dull chore of striving for precise computations, and incorporating correct error bounds when we can obtain only approximations.
+
+We are talking about irrational numbers here; numbers whose names even lay people are familiar with, such as sqrt(2), and pi, and Euler’s number e.
+
+Supposedly there are myriads of other ones, given by various arcane procedures, formulas and properties. The actual theory and arithmetic of such real numbers is never laid out completely correctly; rather we find brief ‘summaries’ of the wished-for properties that these creatures have, properties that ensure that theoretically many standard computational problems have solutions, even if our computers can in fact not find them.
+
+Ask a modern pure mathematician to make the computation pi+e for you, and see what kind of bemused look you get. Is not the answer the same as the question? Is this not how we all do `real number arithmetic’??
+
+The belief in `real numbers’ supports a false mathematical dream-world where almost everything has a solution; a Polyanna fantasy land which can be conjured up by words but not written down on paper. (Of course the computer scientist or applied mathematician or scientist knows that in reality all meaningful computations occur with rational numbers or floating point decimals).
+
+What a boon it is to live in the `infinitely real’ dreamscape of the modern pure mathematician! To conjure up `constructions’ and ` computations’ these days we need only scribble words, phrases and descriptions together. This is why so many of the ‘best’ journals are filled with page after page of what might be generously called `mathematical prose’. See my submission `Let H be a load of hogwash’ to get a feeling for this language of modern mathematics that the journals encourage.
+
+Most pure mathematicians feel little obligation to address the claims of logical weakness. Objections such as mine may be safely ignored. Unlike scientists, we don’t feel the obligation to step up to the plate and respond rationally to criticism, as it clearly cannot be correct: since the majority rules! As long as we all play along, and ignore the increasingly obvious gaps between what our computers can do and what we are claiming, everyone can pretend that things are merry.
+
+But could the tide be turning? A little while ago, James Franklin and I had a public debate (quite civilized and friendly I would add) in the Pure Maths Seminar in the School of Mathematics and Statistics UNSW, and lo and behold– the room was filled to capacity, people were huddled at the doors from outside trying to hear what was said, and my heresies were not met with a barrage of hoots, tomatoes and derision. Check out the debate either at the YouTube channel MathsStatsUNSW, or at my channel Insights into Mathematics (user njwildberger):
+

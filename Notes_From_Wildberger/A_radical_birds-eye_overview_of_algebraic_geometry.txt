@@ -1,0 +1,25 @@
+
+A_radical_birds-eye_overview_of_algebraic_geometry
+
+http://njwildberger.wordpress.com/2013/05/14/a-radical-overview-of-algebraic-geometry/
+
+A radical birds-eye overview of algebraic geometry
+Posted on May 14, 2013 by njwildberger: tangential thoughts
+Let’s talk about a rich and fascinating branch of mathematics called algebraic geometry. The subject has its beginnings with Descartes’ realisation that geometry could be approached algebraically by first introducing coordinates. In this way points become pairs, or triples, of numbers; lines become linear equations; conics become quadratic equations etc., while relations between objects can be encoded and studied purely algebraically.
+
+In this brief note, I want to outline a somewhat radical birds-eye view of the subject, without getting into details. I probably should qualify my expertise here, in that I am not a professional algebraic geometer in the usual sense of the word. Nevertheless I have been studying the subject from a new point of view for more than ten years now, and have arrived at some rather novel understandings of what the subject is about. So what follows is my ten-minute take on algebraic geometry.
+
+The most essential fact of the subject is that it is divided equally into two interlocking areas, the affine theory and the projective theory. The former theory rests on a vector space over a field, the latter theory rests on the associated projective space of lines through the origin. Neither is primary, contrary to popular belief; they are equal partners, and pretty well all aspects of the subject have both an affine and a projective version.
+
+And what field are we working over? Certainly the rational number field is by far the most important, but finite fields are also  interesting, as are various extensions of the rationals,  for example the complex rationals obtained by adjoining a square of -1. But the truest theory is that which applies across the board to all fields (with the notable exception of  fields of characteristic two, which ought not to be called fields!) Note that the usual ‘field of complex numbers’, built on the so called ‘real numbers’, must be avoided at all costs if one aspires to be logically careful; it is a fantasy arena in which almost all our dreams come true, at the cost of abandoning our hold on mathematical reality and diminishing the natural number-theoretical richness of the subject.
+
+Returning to the large-scale organization of the subject, there is a complementary and largely independent subdivision of the subject into various layers depending on the complexity, or degree, of the objects and operations involved.  The main distinction is between the first half–the linear theory, and the second half–the nonlinear theory.
+
+The linear half of algebraic geometry is the more important half, and it goes by another name: linear algebra. This is the study of points, lines, planes and their generalizations and relations. The nonlinear half is itself divided roughly into two halves: the quadratic theory and the non-quadratic theory. The quadratic half is again more important than the non-quadratic half, and is occupied with conics and their associated metrical structures, namely bilinear or quadratic forms.
+
+The non-quadratic half of the nonlinear half is again roughly equally divided into the cubic/quartic half and the higher degree half. Degrees three and four seem to be naturally linked, and support structures that don’t easily generalise to higher degrees. Although one could keep on subdividing, it seems reasonable to lump degrees five and higher into one-eighth of the subject.
+
+I ‘ll try to figure out how to make a table to summarise the situation. But at least you get a sense of the various natural compartments of the subject, at least along the lines of how I see things currently.
+
+What one studies in each of these areas is another important matter of course, but one that seems secondary to me to the basic subdivisions described here. Perhaps this rough guiding framework may provide a simple-minded but helpful orientation to the beginning student.
+
